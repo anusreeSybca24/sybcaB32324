@@ -7,4 +7,7 @@ public class clsSybcaB3_24 {
     System.out.println("hello world");
 	}
 
+	void display() {
+		System.out.println("hello branch");
+	}
 }
