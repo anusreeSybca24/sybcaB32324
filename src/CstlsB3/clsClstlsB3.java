@@ -10,4 +10,8 @@ public class clsClstlsB3 {
 
 	}
 
+	
+	void display2() {
+		System.out.println("branch2");
+	}
 }
